@@ -8,7 +8,7 @@ export default defineConfig({
   // 这里的 base 必须和你仓库名保持一致 (/BuXiu790/)
   // 如果你的 GitHub 仓库名就是 BuXiu790.github.io，不需要这一行，删掉即可。
   // 如果仓库名是 BuXiu790，请保留下面这一行：
-  base: '/BuXiu790/', 
+
 
   themeConfig: {
     // 网站左上角的标题

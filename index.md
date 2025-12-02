@@ -4,7 +4,7 @@ layout: home
 hero:
   name: "Buxiu79"
   text: "陈煜轩的个人主页"
-  tagline: "记录学习与成长的足迹"
+  tagline: "记录学习与成长的足迹！"
   image:
     src: https://vitepress.dev/vitepress-logo-large.webp
     alt: Logo
