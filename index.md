@@ -1,25 +1,26 @@
 ---
-# https://vitepress.dev/reference/default-theme-home-page
 layout: home
 
 hero:
-  name: "My Awesome Project"
-  text: "A VitePress Site"
-  tagline: My great project tagline
+  name: "Buxiu79"
+  text: "陈煜轩的个人主页"
+  tagline: "记录学习与成长的足迹"
+  image:
+    src: https://vitepress.dev/vitepress-logo-large.webp
+    alt: Logo
   actions:
     - theme: brand
-      text: Markdown Examples
+      text: "📖 阅读笔记"
       link: /markdown-examples
     - theme: alt
-      text: API Examples
+      text: "👤 关于我"
       link: /api-examples
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: 📝 学习记录
+    details: 积跬步以至千里，记录每一个知识点的点滴积累。
+  - title: 💻 技术折腾
+    details: 代码海洋。
+  - title: 🚀 生活随笔
+    details: 生活气息。
 ---
-
